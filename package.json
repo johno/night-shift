@@ -2,7 +2,7 @@
   "name": "night-shift",
   "description": "Toggle OS X Night Shift",
   "author": "John Otander",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "bin": {
     "night-shift": "cli.js"
