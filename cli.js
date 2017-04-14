@@ -1,0 +1,2 @@
+const nightShift = require('./')
+nightShift()

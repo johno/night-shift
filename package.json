@@ -1,0 +1,27 @@
+{
+  "name": "night-shift",
+  "description": "Toggle OS X Night Shift",
+  "author": "John Otander",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": {
+    "night-shift": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "repository": "johnotander/night-shift",
+  "keywords": [
+    "osx",
+    "night",
+    "shift"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "run-applescript": "^3.0.0",
+    "shtml": "^0.1.0"
+  },
+  "devDependencies": {}
+}
